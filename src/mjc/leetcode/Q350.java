@@ -9,5 +9,6 @@ public class Q350 {
     public int[] intersect(int[] nums1, int[] nums2) {
         int[] result = new int[nums1.length];
 
+        return result;
     }
 }
